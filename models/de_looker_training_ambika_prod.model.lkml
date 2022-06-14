@@ -3,6 +3,7 @@ connection: "qai_de_looker_training_q04386_ambika_vishwakarma"
 # include all the views
 include: "/views/**/*.view"
 include: "de_looker_training_ambika_prod_dashboard.dashboard"
+#include: "/**/*.dashboard"
 
 
 datagroup: qp_qai_training_1_2021_05_default_datagroup {
