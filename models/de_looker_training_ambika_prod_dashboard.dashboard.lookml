@@ -1,5 +1,5 @@
 - dashboard: looker_training_q04386_ambika
-  title: looker_training_q04386_ambika
+  title: looker_training_q04386_ambika_prod
   layout: newspaper
   preferred_viewer: dashboards-next
   description: ''
